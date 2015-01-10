@@ -14,8 +14,8 @@ public class SecurityCode {
 
 	public static String sendGet(String aim,String text) throws IOException{
 //	    String u="http://2.smsfx.sinaapp.com/send.php?";
-//		String tel = "18369956765";
-//		String pwd = "zwxnzb...";
+//		String tel = "your phone number";
+//		String pwd = "your password";
 //		String num = makeNum();
 //		String stext = text + num;
 //			
